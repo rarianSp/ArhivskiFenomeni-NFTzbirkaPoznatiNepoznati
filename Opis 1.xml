@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+    <control>
+        <recordid href="http://arhinet.arhiv.hr/details.aspx?ItemId=1_16069">opis_01</recordid>
+        <filedesc>
+            <titlestatement>
+                <titleproper>Zbirka Ulčnik Ivan (zbirka) - obavijesno pomagalo</titleproper>
+            </titlestatement>
+        </filedesc> 
+        <conventiondeclaration>
+            <abbr>ISAD(G)</abbr>
+            <citation>ISAD(G): General International Standard Archival Description, second edition, Ottawa 2000</citation>
+        </conventiondeclaration>
+        <maintenanceagency>
+            <agencyname>Državni arhiv u Zagrebu</agencyname>
+        </maintenanceagency>
+        <maintenanceevent>
+            <eventtype value="created"></eventtype>
+                <eventdatetime></eventdatetime>
+            <agenttype value="human"></agenttype>
+            <agent></agent>
+            <eventdescription></eventdescription>
+        </maintenanceevent>
+        <maintenancestatus value="revised">izmijenjena inačica</maintenancestatus>
+        <languagedeclaration>
+            <language langcode="hr">Croatian</language>
+            <script scriptcode="Latn">Latin</script>
+        </languagedeclaration>
+    </control>
+    <archdesc level="collection">
+         <did>
+            <unittitle>Zbirka Ulčnik Ivan (zbirka)</unittitle>
+            <unitid>HR-DAZG-857</unitid>
+            <origination label="Creator">
+                <persname>Ulčnik, Ivan</persname>
+            </origination>
+            <physdescset>
+                <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+                    <quantity>3</quantity>
+                    <unittype>dm</unittype>
+                </physdescstructured>
+                <physdescstructured coverage="whole" physdescstructuredtype="materialtype">
+                    <quantity>30</quantity>
+                    <unittype>kutija</unittype>
+                </physdescstructured>
+            </physdescset>
+            <phystech>Gradivo je sačuvano u relativno dobrom stanju.</phystech>
+            <unitdatestructured unitdatetype="inclusive">
+                <daterange>
+                    <fromdate>1830</fromdate>
+                    <todate>1955</todate>
+                </daterange>
+            </unitdatestructured>
+        </did>
+        <scopecontent>
+        <p>Zbirka sadrži novinske izreske i fotografije koje je Ivan Ulčnik sakupio i bilješke koje je on sastavio. To se gradivo skoro u potpunosti odnosi na grad Zagreb, na njegovu povijest, na objekte, ljude i zbivanja u gradu od njegova osnutka do četrdesetih godina 20. stoljeća.</p>
+        </scopecontent>
+        <accesrestrict>
+            <p>Dostupno javnosti</p>
+            <p>Gradivo ima status javnog gradiva. Dostupno je prema člancima 18-20 Zakona o arhivskom gradivu i arhivima te Pravilnikom o korištenju arhivskog gradiva.</p>
+        </accesrestrict>
+        <userestrict>
+            <p>Uvjeti, način i postupak korištenja javnog arhivskog gradiva kao i izrada preslika utvrđeni su Pravilnikom o korištenju arhivskog gradiva te Pravilnikom o radu čitaonice u Državnom arhivu u Zagrebu.</p>
+        </userestrict>
+        <langmaterial>
+            <languageset>
+                <language langcode="hr">Croatian</language>
+                <script scriptcode="Latn">Latin</script>
+            </languageset>
+        </langmaterial>
+        <appraisal>
+            <p>U fondu nije obavljeno odabiranje i izlučivanje. Gradivo se ne izlučuje, čuva se trajno.</p>
+        </appraisal>
+        <arrangement>
+            <p>Arhivistički sređeno</p>
+            <p>Prilikom sređivanja zbirke rekonstruiran je prvobitni poredak kojeg je ustanovio Ivan Ulčnik, odnosno gradivo je sređeno u abecednom poretku.</p>
+            <p>Zbirka se sastoji od tri serije:
+                <list listtype="ordered">
+                    <item>1. Fotografije i tiskovine</item>
+                    <item>2. Bilješke i novinski izresci</item>
+                    <item>3. Razno</item>
+                </list>
+            </p>
+        </arrangement>
+        <otherfindaid>
+            <otherfindaid>
+                <head>Inventarni popis Zbirke Ulčnik Ivan</head>
+                <p>Inventarni popis Zbirke Ulčnik Ivan, obogaćen dijelom fotografija iz Zbirke, izdan je 2007. kao knjiga: Zagrebačka enciklopedija Ivana Ulčnika, Zagreb 2007.</p>
+            </otherfindaid>
+            <bibref>Horvat, Katarina; Topolovac Rozga, Mihaela; Molnar, Branka. 
+                <title render="italic">
+                    <part>Zagrebačka enciklopedija Ivana Ulčnika.</part>
+                </title> 
+                Zagreb: Školska knjiga, 2020.</bibref>
+        </otherfindaid>
+        <relaredmaterial>
+            <archref>
+                <title>HR-DAZG-10: Gradsko poglavarstvo Zagreb </title>
+                <p>(Osobnici činovnika i službenika Gradskog poglavarstva Zagreba, kut. 243, Personalni dosje Ivana Ulčnika)</p>
+            </archref>
+            <archref>
+                <title>HR-DAZG-791: Društvo Zagrebčana</title>
+            </archref>
+        </relaredmaterial>
+    </archdesc>
+</ead>
